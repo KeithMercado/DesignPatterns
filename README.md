@@ -1,1 +1,1 @@
-# DesignPatterns
+Lab Assignment 1
